@@ -1,0 +1,8 @@
+.favorite {
+    font-style: italic;
+}
+
+.profile-image {
+    max-height: 512px;
+    max-width: 512px;
+}
